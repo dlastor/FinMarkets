@@ -1,5 +1,5 @@
 Package: FinMarkets
-Title: This package is a consolidation of various market indicators, trade blotter statistics, chart helpers, classifiers, digital signal processing functions, and machine learning.
+Title: FinMarkets - A collection of indicators, metrics, classifiers, and machine learning functions. 
 Version: 0.0.0.9000
 Authors@R: person("Dennis", "Lastor", email = "dennis@airpost.net", role = c("aut", "cre"))
 Description: Provide an interface for a variety of tools to analyze time series (financial) datasets.
