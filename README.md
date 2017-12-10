@@ -14,6 +14,6 @@ In order to install this package on windows, you must have Rtools installed. Rto
 
 #### Credits:
 ***
-[1] Ilya Kipnis's IKT package and blog:  https://quantstrattrader.wordpress.com
+[1] Ilya Kipnis's IKTTrading, DSTrading packages and blog:  https://quantstrattrader.wordpress.com
 
 
